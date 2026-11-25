@@ -4,6 +4,7 @@
 
 - 🔭 I'm currently working on **ContribQuest** (Kiroween 2026) and my capstone project — a stock & profit system for UMKM Sony Snack
 - 🌱 I'm currently learning back-end development (JavaScript, Node.js)
+- 🎓 I'm participating in **Studi Independen Asah by Dicoding**
 - 💬 Ask me about local AI, vibe coding, and retro games
 
 ## 🚀 Featured projects
@@ -18,5 +19,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Rikuuuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rikuuuy" height="30" width="40" /></a>
-<a href="https://instagram.com/riidhowww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riidhowww" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ridho-al-ghifahri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ridho-al-ghifahri" height="30" width="40" /></a>
 </p>
