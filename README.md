@@ -5,7 +5,6 @@
 - 🔭 I'm currently working on **ContribQuest** (Kiroween 2026) and my capstone project — a stock & profit system for UMKM Sony Snack
 - 🌱 I'm currently learning back-end development (JavaScript, Node.js)
 - 🎓 I'm participating in **Studi Independen Asah by Dicoding**
-- 💬 Ask me about local AI, vibe coding, and retro games
 
 ## 🚀 Featured projects
 
